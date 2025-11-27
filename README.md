@@ -303,7 +303,8 @@ It sure aint NOT for:
 - `START_HERE.md` - The boring normal README
 - `QUICKSTART.md` - How to actually use this thing
 - `EXAMPLES.md` - Good examples (not the dumb ones you tried)
-- `interactive_demo.py` - No installation needed! USE THIS IF LAZY!
+
+
 
 ---
 
